@@ -25,7 +25,7 @@ export default function RootLayout({
             attribute="class"
             defaultTheme="dark"
             storageKey="discord-theme"
-            forcedTheme="dark"
+            // forcedTheme="dark"
             enableSystem={false}
             disableTransitionOnChange
           >
